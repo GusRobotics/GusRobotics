@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GusRobotics
+- We're a high school robotics team
