@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @GusRobotics
 - We're a high school robotics team
+- More information about our team can be found here: https://team228.org/
